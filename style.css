@@ -1,0 +1,15 @@
+h2 {
+    color: purple;
+}
+ul {
+	color: red;
+}
+ol {
+	color: red;
+}
+body {background-color: pink;
+}
+img{/* <length> values */
+width: 300px;
+width: 25em;
+}
